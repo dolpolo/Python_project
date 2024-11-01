@@ -1,3 +1,10 @@
+# File to ignore
+data/
+litterature/
+Text_analysis_cleaning.ipynb
+Text_Analysis_sentiment.ipynb
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
