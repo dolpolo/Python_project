@@ -140,6 +140,8 @@ data.shape
 data.to_csv('data/data.csv', index=False)
 
 
+
+
 # ==============================
 # EXPLANATORY ANALYSIS
 # ==============================
@@ -217,4 +219,4 @@ fig_state_likes = px.bar(likes_per_state, x='state_code', y='likes',
                           barmode='group')
 
 # Mostra il grafico
-fig_state_likes.show()
+# fig_state_likes.show()
